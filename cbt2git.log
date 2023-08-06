@@ -1,0 +1,7 @@
+2023-08-06 04:08:02.830784 - Initialized conversion of CBT447
+2023-08-06 04:08:02.870294 - Received CBT.V505.FILE447.PDS from FILE447.XMI 
+2023-08-06 04:08:02.873343 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE447.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:08:02.874713 - Found @FILE447.txt (text/plain) in CBT.V505.FILE447.PDS, moved to PDS/@FILE447
+2023-08-06 04:08:02.875868 - Found ENQDOC.txt (text/plain) in CBT.V505.FILE447.PDS, moved to PDS/ENQDOC
+2023-08-06 04:08:02.876845 - Found ENQMON.txt (text/plain) in CBT.V505.FILE447.PDS, moved to PDS/ENQMON
+2023-08-06 04:08:02.877789 - Found ENQMPF.txt (text/plain) in CBT.V505.FILE447.PDS, moved to PDS/ENQMPF
